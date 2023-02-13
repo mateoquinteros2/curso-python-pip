@@ -3,9 +3,12 @@
 
 ### Linux ###
 *~
+<<<<<<< HEAD
 
 *.env
 *.venv
+=======
+>>>>>>> parent of 3daf846 (add doc)
 
 ### Images ###
 # JPEG
