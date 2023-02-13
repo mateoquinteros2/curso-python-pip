@@ -3,6 +3,8 @@
 
 ### Linux ###
 *~
+.venv
+.env
 
 ### Images ###
 # JPEG
